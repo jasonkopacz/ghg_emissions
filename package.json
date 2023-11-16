@@ -1,0 +1,14 @@
+{
+  "name": "@jason-kopacz-ws/ghg",
+  "main": "7dd5801349e87418@519.js",
+  "version": "519.0.0",
+  "homepage": "https://observablehq.com/@jason-kopacz-ws/ghg",
+  "author": {
+    "name": "Jason Kopacz's Workspace",
+    "url": "https://observablehq.com/@jason-kopacz-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
